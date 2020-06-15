@@ -29,7 +29,7 @@ BomBom: Portfolio
 ### 5. 개발아키텍처 : MVC
 ![WBS](https://github.com/HYKim8/springPro/blob/master/spring-mvc-architecture.png "이미지설명") 
 ### 6. 개발목록
-
+[봄요구사항 정의서_1조_봄_Final.xlsx](https://github.com/choijaehoon1/SpringPro/files/4777679/_1._._Final.xlsx)
 ### 7. 단위테스트
 
 ### 8. 통합테스트
