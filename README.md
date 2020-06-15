@@ -23,7 +23,7 @@ BomBom: Portfolio
 최재훈 : 공적 마스크 재고 안내 기능 - 로그인, 회원가입, 관심약국 선택(유효성검사: 중복약국 선택불가, 최대 6개 관심약국 선정가능), 관심약국조회(마이페이지), 관심약국 메일보내기
 ```
 ### 3. 요구사항 정의서
-![요구사항](https://github.com/HYKim8/springPro/blob/master/bombom_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.png "이미지설명") 
+![요구사항](https://github.com/choijaehoon1/SpringPro/blob/master/bombom_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.png "이미지설명") 
 ### 4. WBS
 ![WBS](https://github.com/choijaehoon1/SpringPro/blob/master/bombom_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.png "이미지설명") 
 ### 5. 개발아키텍처 : MVC
