@@ -27,7 +27,7 @@ BomBom: Portfolio
 ### 4. WBS
 ![WBS](https://github.com/choijaehoon1/ZspringPro/blob/master/bombom_WBS.png "이미지설명") 
 ### 5. 개발아키텍처 : MVC
-![WBS](https://github.com/choijaehoon1/SpringPro/blob/master/spring-mvc-architecture.png "이미지설명") 
+![WBS](https://github.com/choijaehoon1/ZspringPro/blob/master/spring-mvc-architecture.png "이미지설명") 
 ### 6. 개발목록
 
 ### 7. 단위테스트
