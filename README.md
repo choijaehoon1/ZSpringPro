@@ -1,5 +1,5 @@
 # ZspringPro
-SpringFramework를 활용한 개인포트폴리오 웹사이트 및 코로나 공적마스크 웹사이트
+SpringFramework를 활용한 개발자 포트폴리오 웹사이트 및 코로나 공적마스크 웹사이트
 
 ### 1. 조이름/프로젝트명
 ```
