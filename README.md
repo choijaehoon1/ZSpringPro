@@ -61,7 +61,3 @@ BomBom : springPro
 
 ### 9. 개발환경
 ![개발환경](https://github.com/choijaehoon1/ZspringPro/blob/master/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD.png "이미지설명")
-
-### 10. 개발URL
-포티폴리오 URL: http://13.124.27.232:8080/springPro/portfolio/do_select_one.spring?hiddenId=wogns  
-공적마스크 URL: http://13.124.27.232:8080/springPro/covid/covid_login.jsp
